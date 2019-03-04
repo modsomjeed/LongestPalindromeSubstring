@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/bin/Debug/netcoreapp2.2/LongestPalindromeSubstring.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/bin/Debug/netcoreapp2.2/LongestPalindromeSubstring.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/bin/Debug/netcoreapp2.2/LongestPalindromeSubstring.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/bin/Debug/netcoreapp2.2/LongestPalindromeSubstring.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/bin/Debug/netcoreapp2.2/LongestPalindromeSubstring.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/LongestPalindromeSubstring/LongestPalindromeSubstring/obj/Debug/netcoreapp2.2/LongestPalindromeSubstring.pdb
